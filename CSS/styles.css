@@ -1,0 +1,19 @@
+body {
+  background-color: #a3c6ff
+}
+img {
+    width: 100%;
+    height: auto;
+}
+h1 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+h2.flashy  {
+  color: blue;
+  text-align: center;
+  margin: auto;
+  text-shadow: 2px 2px #fff;
+}

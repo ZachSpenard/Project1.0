@@ -12,7 +12,7 @@ First independent project by Zach Spenard
 
 * Clone this repository
 run below commands in your target directory:
-  git clone
+  git clone https://github.com/ZachSpenard/Project1.0.git
 
 ## Known Bugs
 * None
