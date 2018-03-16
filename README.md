@@ -23,7 +23,7 @@ For support or any question contact me @ZachSpenard (555)555-5555
 
 ## Technologies Used
 
-* Bootstrap
+* Bootstrap4.0.0
 * html
 * CSS
 
