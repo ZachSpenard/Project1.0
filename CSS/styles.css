@@ -1,5 +1,9 @@
 body {
-  background-color: #a3c6ff
+  background-color: #a3c6ff;
+  margin-right: auto;
+  margin-left:  auto;
+  padding-right: 10px;
+  padding-left:  10px;
 }
 img {
     width: 100%;
@@ -24,4 +28,10 @@ h2.flashy {
   text-align: center;
   margin: auto;
   text-shadow: 2px 2px #fff;
+}
+.italic {
+  font-style: italic;
+}
+#c1 {
+   float:left;
 }

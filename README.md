@@ -13,6 +13,7 @@ First independent project by Zach Spenard
 * Clone this repository
 run below commands in your target directory:
   git clone https://github.com/ZachSpenard/Project1.0.git
+  gh-pages branch https://github.com/ZachSpenard/Project1.0/tree/gh-pages
 
 ## Known Bugs
 * None
